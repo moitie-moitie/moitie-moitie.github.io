@@ -1,6 +1,10 @@
 description: >
   Site Web dédié à la tenue de compte des tirages moitié-moitié de l'équipe
   marketing de Spectra Premium.
+lang: fr-CA
 logo: /assets/img/logo.png
 theme: jekyll-theme-minimal
 title: Tirage moitié-moitié
+webmestre:
+  courriel: ComeauM@spectrapremium.com
+  pseudonyme: ComeauM
