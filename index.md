@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Historique
 
-You can use the [editor on GitHub](https://github.com/moitie-moitie/moitie-moitie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+| Date du tirage | Cagnotte | Contributeur | Avons-nous gagné? |
+| 2019-03-08 | | Martin Comeau | |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contrat social
 
-### Markdown
+Les membres de l'équipe marketing s'engagent à contribuer à parts égales à
+l'achat des billets pour le tirage moitié-moitié qui a lieu à toutes les deux
+semaines. Nous nous sommes entendus sur un montant de 10,00$ (7 billets) par
+tirage. Les 10,00$ devront être assumés en totalité par le membre ce sera le
+tour. Ce site Web sera d'ailleurs principalement utilisé afin de tenir un
+historique des cagnottes, des contributeurs ainsi que des sommes remportées (on
+le souhaite).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ordre proposé:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moitie-moitie/moitie-moitie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- ComeauM
+- BoyerP
+- BissonJ
+- DoyonGamacheMN
+- LagaceP
