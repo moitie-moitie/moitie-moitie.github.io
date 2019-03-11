@@ -1,7 +1,7 @@
 ## Historique
 
 | Date du tirage | Cagnotte | Contributeur | Avons-nous gagné? |
-| --- | --- | --- | --- |
+| --- | --- | --- | :---: |
 | 2019-03-08 | 201,00$ | ComeauM | <i class="far fa-sad-tear"></i> |
 | 2019-03-22 | | BoyerP | |
 
