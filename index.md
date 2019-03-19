@@ -24,3 +24,4 @@ Ordre proposé:
 - BissonJ
 - DoyonGamacheMN
 - LagaceP
+- TremblayG
