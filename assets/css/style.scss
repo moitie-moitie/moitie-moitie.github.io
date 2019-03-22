@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
-.fa-sad-tear {
-  color: #d23b43;
+.fa {
+ &-meh {
+   color: yellow;
+ }
+ &-sad-tear {
+   color: #d23b43;
+ }
 }
