@@ -3,10 +3,10 @@
 | Date du tirage | Cagnotte | Contributeur | Avons-nous gagné? |
 | --- | --- | --- | :---: |
 | 2019-03-08 | 201,00$ | ComeauM | <i class="far fa-sad-tear"></i> |
-| 2019-03-22 | | BoyerP | <i class="far fa-meh"> |
+| 2019-03-22 | 214,00$ | BoyerP | <i class="far fa-sad-tear"></i> |
 | 2019-04-05 | | BissonJ | |
 
-**Prochain contributeur**: BoyerP
+**Prochain contributeur**: BissonJ
 
 ## Contrat social
 
