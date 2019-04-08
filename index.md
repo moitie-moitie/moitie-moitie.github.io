@@ -37,5 +37,3 @@ Ordre proposé:
 - DoyonGamacheMN
 - LagaceP
 - TremblayG
-
-<script src="/assets/js/statistiques.js"></script>
