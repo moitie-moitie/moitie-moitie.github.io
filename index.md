@@ -4,9 +4,20 @@
 | --- | --- | --- | :---: |
 | 2019-03-08 | 201,00$ | ComeauM | <i class="far fa-sad-tear"></i> |
 | 2019-03-22 | 214,00$ | BoyerP | <i class="far fa-sad-tear"></i> |
-| 2019-04-05 | | BissonJ | |
+| 2019-04-05 | 216,00$ | BissonJ | <i class="far fa-sad-tear"></i> |
+| 2019-04-19 | | DoyonGamacheMN | |
 
-**Prochain contributeur**: BissonJ
+**Prochain contributeur**: DoyonGamacheMN
+
+## Statistiques
+
+- **Nombre de tirages**: <span id="nombre-de-tirages"></span>
+- **Plus grosse cagnotte**: <span id="plus-grosse-cagnotte"></span>
+- **Cagnotte moyenne**: <span id="cagnotte-moyenne"></span>
+- **Plus petite cagnotte**: <span id="plus-grosse-cagnotte"></span>
+- **Montant investi**: <span id="montant-investi"></span>
+- **Montant gagné**: <span id="montant-gagne"></span>
+- **Gains nets**: <span id="gains-nets"></span>
 
 ## Contrat social
 
@@ -26,3 +37,5 @@ Ordre proposé:
 - DoyonGamacheMN
 - LagaceP
 - TremblayG
+
+<script src="/assets/js/statistiques.js"></script>
