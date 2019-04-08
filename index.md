@@ -14,7 +14,7 @@
 - **Nombre de tirages**: <span id="nombre-de-tirages"></span>
 - **Plus grosse cagnotte**: <span id="plus-grosse-cagnotte"></span>
 - **Cagnotte moyenne**: <span id="cagnotte-moyenne"></span>
-- **Plus petite cagnotte**: <span id="plus-grosse-cagnotte"></span>
+- **Plus petite cagnotte**: <span id="plus-petite-cagnotte"></span>
 - **Montant investi**: <span id="montant-investi"></span>
 - **Montant gagné**: <span id="montant-gagne"></span>
 - **Gains nets**: <span id="gains-nets"></span>
