@@ -34,4 +34,4 @@ document.getElementById("cagnotte-moyenne").textContent = getArgent(getCagnotteM
 document.getElementById("plus-petite-cagnotte").textContent = getArgent(getPlusPetiteCagnotte(cagnottes));
 document.getElementById("montant-investi").textContent = getArgent(montantInvesti);
 document.getElementById("montant-gagne").textContent = getArgent(montantGagne);
-document.getElementById("gains-nets").textContent = getArgent(montantInvesti - montantGagne);
+document.getElementById("gains-nets").textContent = getArgent(montantGagne - montantInvesti);
