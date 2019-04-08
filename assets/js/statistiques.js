@@ -1,11 +1,12 @@
 const getCagnottes = () => {
   let cagnottes = document.querySelectorAll("td:nth-child(2)");
-  cagnottes = Array.from(cagnottes).map(cagnotte => {
+  cagnottes = Array.from(cagnottes).reduce((resultat, cagnotte) => {
     const float = parseFloat(cagnotte.textContent.replace(",", "."));
     if (!isNaN(float)) {
-      return float;
+      resultat.push(float);
     }
-  });
+    return resultat;
+  }, []);
   return cagnottes;
 };
 const getMontantInvesti = cagnottes => 10.00 * cagnottes.length;
