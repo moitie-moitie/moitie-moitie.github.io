@@ -6,9 +6,10 @@
 | 2019-03-22 | 214,00$ | BoyerP | <i class="far fa-sad-tear"></i> |
 | 2019-04-05 | 216,00$ | BissonJ | <i class="far fa-sad-tear"></i> |
 | 2019-04-18 | 225,50$ | DoyonGamacheMN | <i class="far fa-sad-tear"></i> |
-| 2019-05-03 | | LagaceP | |
+| 2019-05-03 | 266,50$ | LagaceP | <i class="far fa-sad-tear"></i> |
+| 2019-05-17 | | TremblayG | |
 
-**Prochain contributeur**: LagaceP
+**Prochain contributeur**: TremblayG
 
 ## Statistiques
 
