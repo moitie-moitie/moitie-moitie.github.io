@@ -8,7 +8,8 @@
 | 2019-04-18 | 225,50$ | DoyonGamacheMN | <i class="far fa-sad-tear"></i> |
 | 2019-05-03 | 266,50$ | LagaceP | <i class="far fa-sad-tear"></i> |
 | 2019-05-17 | 268,00$ | TremblayG | <i class="far fa-sad-tear"></i> |
-| 2019-05-31 | | ComeauM | |
+| 2019-05-31 | 305,40$ | ComeauM | <i class="far fa-sad-tear"></i> |
+| 2019-06-14 | | BoyerP | |
 
 **Prochain contributeur**: TremblayG
 
