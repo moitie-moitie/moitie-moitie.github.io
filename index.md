@@ -11,7 +11,7 @@
 | 2019-05-31 | 305,40$ | ComeauM | <i class="far fa-sad-tear"></i> |
 | 2019-06-14 | | BoyerP | |
 
-**Prochain contributeur**: TremblayG
+**Prochain contributeur**: BoyerP
 
 ## Statistiques
 
