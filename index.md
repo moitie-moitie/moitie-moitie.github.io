@@ -9,9 +9,10 @@
 | 2019-05-03 | 266,50$ | LagaceP | <i class="far fa-sad-tear"></i> |
 | 2019-05-17 | 268,00$ | TremblayG | <i class="far fa-sad-tear"></i> |
 | 2019-05-31 | 305,40$ | ComeauM | <i class="far fa-sad-tear"></i> |
-| 2019-06-14 | | BoyerP | |
+| 2019-06-14 | 281,00$ | BoyerP | <i class="far fa-sad-tear"></i> |
+| 2019-06-28 | | BissonJ | |
 
-**Prochain contributeur**: BoyerP
+**Prochain contributeur**: BissonJ
 
 ## Statistiques
 
