@@ -10,9 +10,9 @@
 | 2019-05-17 | 268,00$ | TremblayG | <i class="far fa-sad-tear"></i> |
 | 2019-05-31 | 305,40$ | ComeauM | <i class="far fa-sad-tear"></i> |
 | 2019-06-14 | 281,00$ | BoyerP | <i class="far fa-sad-tear"></i> |
-| 2019-06-28 | | BissonJ | |
+| 2019-06-28 | 269,50$ | BissonJ | <i class="far fa-sad-tear"></i> |
 
-**Prochain contributeur**: BissonJ
+**Prochain contributeur**: DoyonGamacheMN
 
 ## Statistiques
 
