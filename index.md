@@ -43,4 +43,5 @@ Ordre proposé:
 - BissonJ
 - DoyonGamacheMN
 - LagaceP
+- BouharraH
 - TremblayG
