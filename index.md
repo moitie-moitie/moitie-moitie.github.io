@@ -15,8 +15,9 @@
 | 2019-09-20 | 800,00$ | LagaceP | <i class="far fa-sad-tear"></i> |
 | 2019-10-04 | 240,00$ | TremblayG | <i class="far fa-sad-tear"></i> |
 | 2019-10-18 | 207,50$ | BouharraH | <i class="far fa-sad-tear"></i> |
+| 2019-11-01 | 211,50$ | ComeauM | <i class="far fa-sad-tear"></i> |
 
-**Prochain contributeur**: ComeauM
+**Prochain contributeur**: BoyerP
 
 ## Statistiques
 
