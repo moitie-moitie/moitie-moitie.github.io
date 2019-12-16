@@ -18,8 +18,9 @@
 | 2019-11-01 | 211,50$ | ComeauM | <i class="far fa-sad-tear"></i> |
 | 2019-11-15 | 223,50$ | BoyerP | <i class="far fa-sad-tear"></i> |
 | 2019-11-29 | 184,00$ | BissonJ | <i class="far fa-sad-tear"></i> |
+| 2019-12-13 | 218.75$ | DoyonGamacheMN | <i class="far fa-sad-tear"></i> |
 
-**Prochain contributeur**: DoyonGamacheMN
+**Prochain contributeur**: LagaceP
 
 ## Statistiques
 
