@@ -19,8 +19,9 @@
 | 2019-11-15 | 223,50$ | BoyerP | <i class="far fa-sad-tear"></i> |
 | 2019-11-29 | 184,00$ | BissonJ | <i class="far fa-sad-tear"></i> |
 | 2019-12-13 | 218.75$ | DoyonGamacheMN | <i class="far fa-sad-tear"></i> |
+| 2020-01-10 | 215.50$ | LagaceP | <i class="far fa-sad-tear"></i> |
 
-**Prochain contributeur**: LagaceP
+**Prochain contributeur**: TremblayG
 
 ## Statistiques
 
