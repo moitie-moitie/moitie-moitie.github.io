@@ -22,8 +22,9 @@
 | 2020-01-10 | 215.50$ | LagaceP | <i class="far fa-sad-tear"></i> |
 | 2020-01-24 | 164,50$ | TremblayG | <i class="far fa-sad-tear"></i> |
 | 2020-02-07 | 159,00$ | BoyerP | <i class="far fa-sad-tear"></i> |
+| 2020-02-21 | 151,00$ | ComeauM | <i class="far fa-sad-tear"></i> |
 
-**Prochain contributeur**: ComeauM
+**Prochain contributeur**: BissonJ
 
 ## Statistiques
 
@@ -52,4 +53,3 @@ Ordre proposé:
 - BissonJ
 - DoyonGamacheMN
 - LagaceP
-- TremblayG
