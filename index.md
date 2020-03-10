@@ -23,8 +23,9 @@
 | 2020-01-24 | 164,50$ | TremblayG | <i class="far fa-sad-tear"></i> |
 | 2020-02-07 | 159,00$ | BoyerP | <i class="far fa-sad-tear"></i> |
 | 2020-02-21 | 151,00$ | ComeauM | <i class="far fa-sad-tear"></i> |
+| 2020-03-06 | 145,00$ | BissonJ | <i class="far fa-sad-tear"></i> |
 
-**Prochain contributeur**: BissonJ
+**Prochain contributeur**: DoyonGamacheMN
 
 ## Statistiques
 
